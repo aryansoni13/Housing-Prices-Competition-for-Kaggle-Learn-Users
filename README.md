@@ -17,8 +17,8 @@ Both solutions were created using Python, leveraging libraries such as `pandas`,
 
 ## Contents
 
-- `solution_1.ipynb`: Notebook containing the code and approach for the solution with a public score of 15107.49382.
-- `solution_2.ipynb`: Notebook containing the code and approach for the solution with a public score of 18205.37023.
+- `solution_1.ipynb`: Notebook containing the code and approach for the solution with a public score of 18205.37023.
+- `solution_2.ipynb`: Notebook containing the code and approach for the solution with a public score of 15107.49382.
 - `data/`: Directory for housing price data files (not included in this repository, but can be obtained from the competition page).
 
 ## Requirements
